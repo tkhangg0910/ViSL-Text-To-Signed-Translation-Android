@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">Final_project</string>
+
+    <!-- Header -->
+    <string name="settings_title">Cài Đặt</string>
+
+    <!-- Section titles -->
+    <string name="section_ui">GIAO DIỆN</string>
+    <string name="section_translation">TÙY CHỈNH BẢN DỊCH</string>
+    <string name="section_data">DỮ LIỆU</string>
+
+    <!-- Dark mode -->
+    <string name="dark_mode">Chế độ tối</string>
+    <string name="dark_mode_on">Đang bật</string>
+    <string name="dark_mode_off">Đang tắt</string>
+
+    <!-- Language -->
+    <string name="language">Ngôn ngữ</string>
+    <string name="choose_language">Chọn ngôn ngữ</string>
+
+    <!-- Gloss -->
+    <string name="show_gloss">Hiển thị Gloss</string>
+    <string name="gloss_on">Bật — hiện nhãn Gloss dưới video</string>
+    <string name="gloss_off">Tắt — chỉ hiện avatar animation</string>
+
+    <!-- History -->
+    <string name="delete_history">Xóa lịch sử dịch</string>
+    <string name="translated_count">%1$d câu đã dịch</string>
+
+    <!-- About -->
+    <string name="about">Về ứng dụng</string>
+    <string name="app_version">ViSL v1.0.0</string>
+
+    <!-- Language names -->
+    <string name="lang_vi">Tiếng Việt</string>
+    <string name="lang_vi_sub">Vietnamese</string>
+
+    <string name="lang_en">English</string>
+    <string name="lang_en_sub">Tiếng Anh</string>
+
+    <!-- History -->
+    <string name="history_title">Lịch Sử</string>
+
+    <string name="confirm_delete_title">Xóa toàn bộ?</string>
+    <string name="confirm_delete_message">Bạn có chắc muốn xóa toàn bộ lịch sử không?</string>
+    <string name="confirm_delete">Xóa</string>
+    <string name="cancel">Hủy</string>
+
+    <string name="search_hint">Tìm kiếm...</string>
+
+    <string name="loading">Đang tải...</string>
+
+    <string name="total_count">Tổng: %1$d</string>
+
+    <string name="replay">▶ Phát lại</string>
+    <string name="copy">Sao chép</string>
+
+    <string name="delete_icon">🗑️</string>
+    <!-- Translate Screen -->
+    <string name="input_language_vi">🇻🇳 Tiếng Việt</string>
+    <string name="input_hint">Nhập câu tiếng Việt...</string>
+
+    <string name="char_count">%1$d / 200</string>
+
+    <string name="delete">Xóa</string>
+    <string name="example">Ví dụ</string>
+
+    <string name="common_sentences">CÂU MẪU THƯỜNG DÙNG</string>
+
+    <string name="translate_button">▶  Dịch sang ký hiệu</string>
+    <string name="input_empty">Hãy nhập câu cần dịch</string>
+
+    <string name="gloss_section">NHÃN KÝ HIỆU (GLOSS)</string>
+
+    <string name="paste_success">Dán từ clipboard</string>
+    <string name="clipboard_empty">Clipboard trống</string>
+
+    <string name="check">✓</string>
+
+    <!-- Dialect -->
+    <string name="dialect_north">Miền Bắc</string>
+    <string name="dialect_central">Miền Trung</string>
+    <string name="dialect_south">Miền Nam</string>
+
+    <string name="dialect_north_sub">Giọng Bắc</string>
+    <string name="dialect_central_sub">Giọng Trung</string>
+    <string name="dialect_south_sub">Giọng Nam</string>
+
+    <!-- Quick Chips -->
+    <string name="qc_bank_label">🏦 Ngân hàng</string>
+
+    <string name="qc_hospital_label">🏥 Bệnh viện</string>
+
+    <string name="qc_health_label">🏥 Y tế</string>
+
+    <string name="qc_greeting_label">👋 Chào hỏi</string>
+
+    <string name="qc_help_label">🆘 Cần giúp</string>
+
+    <string name="nav_translate">Dịch</string>
+    <string name="nav_history">Lịch sử</string>
+    <string name="nav_settings">Cài đặt</string>
+</resources>
